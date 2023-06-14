@@ -1,0 +1,17 @@
+C:\Users\feshk\source\repos\Converter-master\Converter12\bin\Debug\net6.0-windows\Converter12.exe
+C:\Users\feshk\source\repos\Converter-master\Converter12\bin\Debug\net6.0-windows\Converter12.deps.json
+C:\Users\feshk\source\repos\Converter-master\Converter12\bin\Debug\net6.0-windows\Converter12.runtimeconfig.json
+C:\Users\feshk\source\repos\Converter-master\Converter12\bin\Debug\net6.0-windows\Converter12.dll
+C:\Users\feshk\source\repos\Converter-master\Converter12\bin\Debug\net6.0-windows\Converter12.pdb
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.csproj.AssemblyReference.cache
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.Form1.resources
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.csproj.GenerateResource.cache
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.AssemblyInfoInputs.cache
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.AssemblyInfo.cs
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.csproj.CoreCompileInputs.cache
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.dll
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\refint\Converter12.dll
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.pdb
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\Converter12.genruntimeconfig.cache
+C:\Users\feshk\source\repos\Converter-master\Converter12\obj\Debug\net6.0-windows\ref\Converter12.dll
